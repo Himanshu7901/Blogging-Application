@@ -14,10 +14,7 @@
 			<name>org.springframework.ide.eclipse.boot.validation.springbootbuilder</name>
 			<arguments>
 			</arguments>
-<arguments> <name>
-org.springframewor.ide
-</>
-		</buildCommand>
+	</buildCommand>
 		<buildCommand>
 			<name>org.eclipse.m2e.core.maven2Builder</name>
 			<arguments>
